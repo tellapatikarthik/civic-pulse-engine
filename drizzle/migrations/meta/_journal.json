@@ -1,5 +1,13 @@
 {
   "version": "7",
   "dialect": "postgresql",
-  "entries": []
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790439386288,
+      "tag": "0000_civicpulse_core_schema",
+      "breakpoints": true
+    }
+  ]
 }
