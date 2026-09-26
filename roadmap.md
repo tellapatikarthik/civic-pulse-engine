@@ -1,0 +1,5 @@
+- [ ] Build CivicPulse citizen request, recording/demo voice, editable analysis, and tracking flow.
+- [ ] Build policymaker overview, hotspots, evidence-first recommendations, decision lifecycle, and impact measurement.
+- [ ] Add synthetic relational dataset, backend persistence/services, analytics, audit, imports, messaging simulator, and privacy/data views.
+- [ ] Add shared language/country selectors, guided 15-scene demo, and responsive accessibility.
+- [ ] Verify the requested end-to-end journey and current preview/build health.
